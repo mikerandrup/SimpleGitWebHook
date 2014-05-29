@@ -1,0 +1,19 @@
+{
+  "name": "SimpleGitWebHook",
+  "version": "0.0.0",
+  "description": "Rolling my own GitHub WebHook for propping code to my server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikerandrup/SimpleGitWebHook.git"
+  },
+  "author": "Mike Randrup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikerandrup/SimpleGitWebHook/issues"
+  },
+  "homepage": "https://github.com/mikerandrup/SimpleGitWebHook"
+}
